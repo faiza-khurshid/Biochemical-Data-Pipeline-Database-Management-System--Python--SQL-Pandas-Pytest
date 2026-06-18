@@ -122,12 +122,12 @@ results = query.get_enzymes_by_ec_number("1.1.1.1")
 
 for enzyme in results:
     print(enzyme.enzyme_name, enzyme.ec_number)
----
-##🧪 Running Tests
+
+🧪 Running Tests
 pytest
  
----
-## 👨‍💻 Author
+
+👨‍💻 Author
 Faiza
 
  
