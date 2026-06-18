@@ -1,0 +1,4 @@
+ID	Substrates	Products	EC number	Enzyme name
+1	A + B	C	1.1.1.1	enzyme1
+2	C	D + E	1.1.1.1	enzyme2
+3	D	F	1.1.1.2	enzyme3
